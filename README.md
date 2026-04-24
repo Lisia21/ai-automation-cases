@@ -25,11 +25,12 @@ Junior AI Integration Specialist. 3 года управления команда
 - 100% типовых запросов обрабатываются автоматически
 - Время ответа: с 2 часов до мгновенного
 - Работа с бесплатной нейросетью (лимитированные кредиты)
-<img width="1710" height="1102" alt="Снимок экрана 2026-04-21 в 23 12 40" src="https://github.com/user-attachments/assets/1092d3e4-18ce-46e0-9c68-ad2b86395a4e" />
-<img width="1710" height="1102" alt="Снимок экрана 2026-04-21 в 23 12 33" src="https://github.com/user-attachments/assets/ab5b52c7-062f-4b9f-a451-8b4800e423d7" />
 
+![Скриншот сценария Make.com](vk-agent-make.png)
+<img width="1710" height="1102" alt="Снимок экрана 2026-04-21 в 23 12 40" src="https://github.com/user-attachments/assets/3c8d45ce-670b-49c3-a3f1-215d0f22328f" />
 
-![Скриншот сценария Make.com](screenshots/vk-agent-make.png)
+![Демо диалога с ботом](vk-chat-demo.png)
+<img width="1710" height="1102" alt="Снимок экрана 2026-04-21 в 23 12 33" src="https://github.com/user-attachments/assets/eb32555d-7ca3-489a-bcd7-53dfe06a4831" />
 
 ### 2. Telegram-бот «Навигатор» — личный AI-ассистент (Make.com + OpenAI + Google Sheets)
 **Задача:** Структурировать хаос в план. Помощник для продуктивности: принимает «мусор» из мыслей → задаёт уточняющие вопросы → выдаёт конкретный план действий с учётом рабочего графика 3/3.
@@ -43,14 +44,18 @@ Junior AI Integration Specialist. 3 года управления команда
 3. OpenAI обрабатывает контекст + рабочий график
 4. Бот возвращает: уточняющие вопросы → структурированный план → шаги на сегодня/неделю
 
+**База данных в Google Sheets:**
+
+![Скриншот таблицы Google Sheets](tg-navigator-sheets.png)
+<img width="1710" height="1107" alt="Снимок экрана 2026-04-24 в 17 44 12" src="https://github.com/user-attachments/assets/8546af29-401d-4cd6-86ba-3cb9d6afd710" />
+
 **Статус:** MVP (апрель 2026). Работает базовый цикл. В планах:
 - Подключение персонального графика работы 3/3 для точного планирования
 - Доработка промптов для более естественного диалога
 - Расширение Google Sheets: цели, дедлайны, приоритеты, история паттернов
 
-![Скриншот сценария Make.com](screenshots/tg-navigator-make.png)<img width="1710" height="1102" alt="Снимок экрана 2026-04-24 в 16 05 49" src="https://github.com/user-attachments/assets/799b255b-4047-447c-92a9-d73804e1403f" />
-<img width="1710" height="1107" alt="Снимок экрана 2026-04-24 в 17 44 12" src="https://github.com/user-attachments/assets/26155806-dd67-4188-96d0-b44356511c31" />
-
+![Скриншот сценария Make.com](tg-navigator-make.png)
+<img width="1710" height="1102" alt="Снимок экрана 2026-04-24 в 16 05 49" src="https://github.com/user-attachments/assets/e9d8a907-a2c1-4272-83f2-b7328a4e14c5" />
 
 ---
 
