@@ -65,4 +65,4 @@ Junior AI Integration Specialist. 3 года управления команда
 
 - Telegram: @Mariik0
 - Email: Markkartofelfree@gmail.com 
-- Портфолио: [ссылка на Notion, когда сделаю]
+- Портфолио: https://www.notion.so/AI-Integration-Specialist-34dceaf4906780e78773c76948a5892b?source=copy_link 
